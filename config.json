@@ -1,0 +1,17 @@
+{
+  "api_config":{
+    "base_url":"http://myhost/myapiname/api/ver2/",
+    "api_key":"yourapikeyhere",
+  },
+  "brp_credentials":{
+    "username":"yourname@example.com",
+    "password":"yoursecretpassword"
+  },
+  "pushover_credentials":{
+    "token":"hyyHH.........",
+    "user":"UKllll.......",
+  },
+  "preferred_coaches":[
+    0, 1, 2 
+  ]
+}
